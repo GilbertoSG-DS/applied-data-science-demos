@@ -11,6 +11,11 @@ The notebooks cover topics such as forecasting, experimentation, feature enginee
 - Forecasting with exogenous variables
 - Hierarchical forecasting
 
+### Advanced Forecasting
+
+- GARCH volatility modeling for financial time series
+- Financial time series analysis (NSE data)
+
 ### Experimentation
 - A/B testing
 - Power analysis
